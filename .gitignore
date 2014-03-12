@@ -1,4 +1,10 @@
 .idea
 *.iml
-*.class
 assets/
+=======
+*.class
+
+# Package Files #
+*.jar
+*.war
+*.ear
